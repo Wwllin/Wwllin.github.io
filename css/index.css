@@ -4359,7 +4359,7 @@ body[data-type='about'] #web_bg {
   position: relative;
   overflow: hidden;
   margin-bottom: 0.5rem;
-  height: 60%;
+  height: 95%;
   -webkit-transition: 1s ease-in-out;
   -moz-transition: 1s ease-in-out;
   -o-transition: 1s ease-in-out;
@@ -4404,7 +4404,7 @@ body[data-type='about'] #web_bg {
   display: -ms-flexbox;
   display: box;
   display: flex;
-  min-height: 100px;
+  min-height: 160px;
   max-height: 400px;
   -webkit-box-pack: justify;
   -moz-box-pack: justify;
@@ -4425,7 +4425,7 @@ body[data-type='about'] #web_bg {
   -ms-flex-wrap: wrap;
   flex-wrap: wrap;
   height: -webkit-fill-available;
-  height: 40%;
+  height: 95%;
 }
 .author-content-item.selfInfo div {
   display: -webkit-box;
@@ -4529,7 +4529,7 @@ body[data-type='about'] #web_bg {
   -ms-flex-pack: center;
   -webkit-justify-content: center;
   justify-content: center;
-  width: 40%;
+  width: 39%;
 }
 .author-content-item .author-content-item-tips {
   opacity: 0.8;
@@ -5161,6 +5161,7 @@ body[data-type='about'] #web_bg {
   background-repeat: no-repeat;
   background-position-x: right;
   background-position-y: bottom;
+  width: 48%;
 }
 .author-content-item.careers .careers-group {
   display: -webkit-box;
@@ -5454,13 +5455,9 @@ body[data-type='about'] #web_bg {
 }
 #about-page .author-content-item.map {
   width: 44%;
-  height: 100%;
-  left: 56%;
 }
 #about-page .author-content-item.selfInfo {
-  height: 100%;
-  width: 55%;
-  right: 45%;
+  width: 54%;
 }
 @-moz-keyframes loading-bar {
   0% {
